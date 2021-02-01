@@ -1,2 +1,2 @@
 # ANDRYTANK
-Remake of angry bird with epic tank. Two insane game mode, the first mode is a campagne mode with 3 thematic world and 10 difficulty risen level. The second mode is a 1v1 mode, the two player chose one of 5 diferents insane tank and start a dead match
+Petit jeu de 1v1 composé de 2 modes. Ce projet a été réalisé dans le cadre de la spécialité ISN. 
